@@ -1,0 +1,84 @@
+
+
+[{
+    "soru": "Ali : ...............................?  Ayşe : My name is Ayşe.",
+    "a": "What colour is this?",
+    "b": "How many books are there?",
+    "c": "What is your name?"
+},{
+    "soru": "TWO + NINE = ...................",
+    "a": "ten",
+    "b": "eleven",
+    "c": "twelve"
+},{
+    "soru": "FOURTEEN - FIFTEEN - ....... ? ....... - SEVENTEEN",
+    "a": "sixteen",
+    "b": "thirteen",
+    "c": "eighteen"
+},{
+    "soru": "-WHEEL- How many letters are there?",
+    "a": "five",
+    "b": "four",
+    "c": "six"
+},{
+    "soru": "Ali: …………………………? Jack: I’m 8 years old.",
+    "a": "How are you?",
+    "b": "How old are you?",
+    "c": "What is your name?"
+},{
+    "soru": "Hangisi doğru eşleşmiştir?",
+    "a": "uncle = father",
+    "b": "sister = brother",
+    "c": "mother = aunt"
+},{
+    "soru": "She is my aunt. ................... name is Sophia.",
+    "a": "Her",
+    "b": "His",
+    "c": "My"
+},{
+    "soru": "Resmi ifade eden seçenek hangisidir?",
+    "a": "son - mother - father",
+    "b": "uncle - son - father",
+    "c": "mother-father – son"
+},{
+    "soru": " ",
+    "a": "It is strong.",
+    "b": "It is heavy.",
+    "c": "It is thin."
+},{
+    "soru": "YOUNG kelimesinin karşıtı aşağıdakilerden hangisidir?",
+    "a": "old",
+    "b": "grandfather",
+    "c": "big"
+},{
+    "soru": "Karşıt anlamlı sıfatlar hangi seçenekte DOĞRU verilmiştir?",
+    "a": "big X short",
+    "b": "strong X weak",
+    "c": "tall X slow"
+},{
+    "soru": "Aşağıdaki karşıt anlamlı sıfat eşleştirmelerinden hangisi yanlıştır?",
+    "a": "happy X unhappy",
+    "b": "tired X energetic",
+    "c": "bad X sad"
+},{
+    "soru": "Sometimes I .................... bad.",
+    "a": "feel",
+    "b": "are",
+    "c": "can"
+},{
+    "soru": "“ How are you today? ” Yukarıdaki sorunun cevabı hangi seçenekte verilmiştir?",
+    "a": "My name is Sue.",
+    "b": "She is my mother.",
+    "c": "I feel good."
+},{
+    "soru": "Ken : ............... are you doing?Barbie : I am cooking. Yukarıdaki boşluğa hangi soru kelimesi gelmelidir?",
+    "a": "How",
+    "b": "What",
+    "c": "Where"
+},{
+    "soru": "Aşağıdaki cümle eşleştirmelerinden hangisi doğrudur?",
+    "a": "I am energetic. → I am dancing.",
+    "b": "I am tired. → I can run.",
+    "c": "I am happy. → I am crying."
+}
+]
